@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Logistic Shipping Rates Calculator (Coursera Practice Project)
+Logistic Shipping Rates Calculator (Coursera Practice Project) 
 
 Please consider the below factors while contributing
 Code Style:
